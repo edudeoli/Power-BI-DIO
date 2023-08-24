@@ -35,7 +35,7 @@ Foi criado um script para uma nova fonte de dados utilizando o Direct Query, pos
   
 - Pergunta sobre Mesclar e Atribuir (Item 14)
   
-- No contexto supracitado, a função de "mesclar" se refere à aplicação de junções de tabelas, semelhante ao uso da cláusula JOIN em SQL. A função de "atribuir" - provavelmente se refere a operações de agregação, como soma ou contagem.
+No contexto supracitado, a função de "mesclar" se refere à aplicação de junções de tabelas, semelhante ao uso da cláusula JOIN em SQL. A função de "atribuir" - provavelmente se refere a operações de agregação, como soma ou contagem.
 
 Por exemplo, ao mesclar duas tabelas usando uma chave comum, você combina os dados dessas tabelas em uma única tabela resultante, combinando linhas que possuem valores correspondentes na chave.
 
